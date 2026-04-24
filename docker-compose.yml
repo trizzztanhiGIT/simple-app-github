@@ -1,5 +1,5 @@
 services:
   webserver:
-    image: ghcr.io/trizzztanhiGIT/nginx-Yitrostevanttristantiosilalahi
+    image: ghcr.io/trizzztanhigit/nginx-yitrostevanttristantiosilalahi
     ports:
       - "8080:80"
